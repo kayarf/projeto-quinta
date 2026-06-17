@@ -4,7 +4,7 @@ import time
 import random
 import uuid
 
-ORIGINAL_MASTER_IP   = '10.62.216.214'
+ORIGINAL_MASTER_IP   = '192.168.15.6'
 ORIGINAL_MASTER_PORT = 8000          # porta local (8000 na aula)
 ORIGINAL_MASTER_ADDR = f"{ORIGINAL_MASTER_IP}:{ORIGINAL_MASTER_PORT}"
 
